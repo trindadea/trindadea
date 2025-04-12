@@ -10,8 +10,8 @@ Estou sempre em busca de evolução contínua, tanto pessoal quanto profissional
 
 <div align="center">
   <a href="https://github.com/trindadea">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=trindadea&theme=dark&show_icons=true&hide_border=true&count_private=true"/>
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trindadea&theme=dark&show_icons=true&hide_border=true&layout=compact"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=trindadea&theme=dark&show_icons=true&hide_border=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trindadea&theme=dark&show_icons=true&hide_border=true&layout=compact"/>
   </a>
 </div>
 
